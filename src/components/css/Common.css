@@ -1,0 +1,128 @@
+.main{
+    margin-top: 20px;
+    
+}
+.slider{
+    text-align: center;
+    
+}
+
+.photo{
+    margin-left: 30px;
+}
+h2:hover{
+    
+    color:gold ;
+    background-color: black;
+    padding-left: 20px;
+    font-style: inherit;
+    text-align: center;
+    
+    
+    
+}
+h2{
+    margin-left: 20px   ;
+    text-align: center;
+}
+h4{
+    margin-top: 15px;
+    margin-bottom: 40px;
+    
+}
+.icon{
+    list-style: none;
+}
+
+h6{
+    color: rgb(71, 31, 31);
+}
+span{
+    font-size: x-large;
+    color:gold ;
+    background-color:black;
+    margin-left: 5px;
+    font-style: oblique;
+    text-align: center;
+    margin-top: 20px;
+    border: solid gery 5px;
+}
+ .map{
+    margin-right: 50px;
+    text-align: center;
+    margin-top: 30px;
+    
+ }
+ .info{
+    border-style: solid 2px black;
+    border: radius 100px,80px;
+    text-align: center;
+
+ }
+ .kitchen {
+    
+    width: 100%;
+    height: 700px;
+    background-image:url(  "https:assets.architecturaldigest.in/photos/60084c4b08ae763b9ae85b90/16:9/w_2560%2Cc_limit/Bangalore-home-Weespaces-kitchen-3-1366x768.jpg" ) ;
+opacity:80%;
+
+
+}
+ .kit h5{
+    padding-top: 480px;
+    
+    
+    
+
+ }
+
+ p{
+     
+    color:green;
+    font-family: serif;
+    font-size: larger;
+ }
+ p:hover{
+    background-color: green;
+    color: white;
+ }
+ .icon{
+    text-align: center;
+ }
+ .photo{
+    text-align: center;
+    border: grey;
+ }
+ .link{
+    list-style: none;
+    text-decoration: none;
+    margin-top: 40px;
+ }
+ .link a{
+    text-decoration: none;
+    color: black;
+    margin-top: 10px;
+    
+
+ }
+.usefulllink a{
+ text-decoration: none;
+ color: black;
+}
+.usefulllink{
+    margin-top: 40px;
+    list-style: none;
+    padding-top: 5px;
+}
+h5{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+
+}
+h6{
+    text-align: center;
+    font-size: 35px;
+    color: whitesmoke;
+    
+}
