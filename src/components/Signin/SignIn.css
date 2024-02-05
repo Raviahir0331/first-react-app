@@ -2,3 +2,20 @@
     font-size: 50px;
     color: aqua;
 }
+.authontication{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    background-color: white;
+    ;
+
+}
+.btnlogout{
+    width: 100px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
